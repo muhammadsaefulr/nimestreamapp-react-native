@@ -1,7 +1,7 @@
 # 🎬 NimeStream App
 
 <div align="center">
-  <img src="screen_shot_01.png" alt="NimeStream App" width="300" />
+  <img src="screenshot_preview.png" alt="NimeStream App" width="300" />
   
   **Modern Movie Discovery App**
   
